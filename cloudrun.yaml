@@ -25,7 +25,7 @@ spec:
     spec:
       containerConcurrency: 40
       timeoutSeconds: 300
-      serviceAccountName: sbgcrun-app-frontend@PROJECT_ID.iam.gserviceaccount.com
+      serviceAccountName: sbgcrun-app-frontend@project-5a711c3e-5949-4e62-ac0.iam.gserviceaccount.com
       containers:
       - image: frontend
         env:
