@@ -31,7 +31,7 @@ export function Header({ className }: { className?: string }) {
         <Link to="/" className="flex items-center space-x-2">
           <PawPrint className="h-6 w-6" />
              <span className="text-xl font-bold">My Cloud Run Shop</span>
-        </Link>cDｓｂｇｃるん-
+        </Link>
 
         <nav>
           <ul className="flex space-x-4 items-center">
