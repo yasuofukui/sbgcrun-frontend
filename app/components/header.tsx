@@ -30,8 +30,8 @@ export function Header({ className }: { className?: string }) {
       <div className="flex items-center justify-between w-full">
         <Link to="/" className="flex items-center space-x-2">
           <PawPrint className="h-6 w-6" />
-             </Link>span className="text-xl font-bold">My Cloud Run Shop</span>
-        </Link>
+             <span className="text-xl font-bold">My Cloud Run Shop</span>
+        </Link>cDｓｂｇｃるん-
 
         <nav>
           <ul className="flex space-x-4 items-center">
