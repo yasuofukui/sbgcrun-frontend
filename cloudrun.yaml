@@ -10,7 +10,7 @@ metadata:
     # 5章Step3でコメントを外す。外部からはロードバランサ経由のみを許可する
     run.googleapis.com/ingress: internal-and-cloud-load-balancing
     # 6章Step1でコメントを外す。デフォルトURLを無効化する
-    # run.googleapis.com/default-url-disabled: "true"
+    run.googleapis.com/default-url-disabled: "true"
     # 6章Step9でコメントを外す。BinaryAuthの有効化
     # run.googleapis.com/binary-authorization: default
 spec:
